@@ -12,8 +12,7 @@
 4. [Quick Start / Usage](#quick-start--usage)
 5. [Example Input & Output](#example-input--output)
 6. [DLL Notes](#dll-notes)
-7. [Screenshots](#screenshots)
-8. [License](#license)
+7. [License](#license)
 
 ---
 
@@ -125,8 +124,8 @@ Dinner: Tofu stir-fry with broccoli, carrots, and brown rice.
 
 
 
-## License
 ## Author: kashaf mehmood
+## License
 
 This project is licensed under the **MIT License**.
 
